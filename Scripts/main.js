@@ -18,7 +18,7 @@ let dogs = [{breed:'Golden Retriever', count:8653, weight: 39.5, height: 56},
 	{breed:'Border Collie', count:1718, weight: 16, height: 51},
 	{breed:'German Shepherd', count:7067, weight: 31, height: 60},
 	{breed:'Swiss Shepherd', count:110, weight: 32.5, height: 60.5}]
- 
+
 
 
 let bars = barSvg.selectAll('rect.bar')
